@@ -1,13 +1,17 @@
 export default function Skills() {
   const skills = [
-    { name: "React", icon: "⚛️", color: "from-cyan-500 to-blue-500" },
-    { name: "Next.js", icon: "▲", color: "from-gray-700 to-gray-900" },
-    { name: "TypeScript", icon: "📘", color: "from-blue-600 to-blue-700" },
-    { name: "JavaScript", icon: "📜", color: "from-yellow-400 to-yellow-600" },
-    { name: "Tailwind CSS", icon: "🎨", color: "from-teal-400 to-cyan-500" },
-    { name: "Node.js", icon: "🟢", color: "from-green-500 to-green-700" },
-    { name: "Git", icon: "📦", color: "from-orange-500 to-red-600" },
-    { name: "Python", icon: "🐍", color: "from-blue-500 to-yellow-500" },
+    { name: "Kotlin", icon: "🔷", color: "from-purple-500 to-purple-700" },
+    { name: "Android", icon: "🤖", color: "from-green-500 to-green-700" },
+    { name: "Clean Architecture", icon: "🏗️", color: "from-blue-600 to-indigo-700" },
+    { name: "MVVM", icon: "📐", color: "from-cyan-500 to-blue-600" },
+    { name: "Hilt (DI)", icon: "💉", color: "from-orange-500 to-red-600" },
+    { name: "Coroutine & Flow", icon: "🌊", color: "from-teal-400 to-cyan-600" },
+    { name: "Retrofit2", icon: "🌐", color: "from-blue-500 to-blue-700" },
+    { name: "Jetpack AAC", icon: "🚀", color: "from-indigo-500 to-purple-600" },
+    { name: "RxKotlin", icon: "⚡", color: "from-pink-500 to-rose-600" },
+    { name: "Room DB", icon: "💾", color: "from-gray-600 to-gray-800" },
+    { name: "Firebase", icon: "🔥", color: "from-yellow-500 to-orange-600" },
+    { name: "Git & GitHub", icon: "📦", color: "from-gray-700 to-gray-900" },
   ];
 
   return (

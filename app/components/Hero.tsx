@@ -9,16 +9,16 @@ export default function Hero() {
         </div>
         <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold mb-6">
           <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-            안녕하세요
+            홍창기
           </span>
         </h1>
         <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-gray-800 dark:text-gray-200 mb-6">
-          저는 개발자입니다
+          Android Developer
         </h2>
         <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto">
-          웹 개발과 사용자 경험에 열정을 가진 개발자입니다.
+          MVVM-Clean Architecture, Hilt, Coroutine-Flow 기반 대규모 앱 리팩토링 및 신규 서비스 런칭 경험 보유
           <br />
-          새로운 기술을 배우고 멋진 프로젝트를 만드는 것을 좋아합니다.
+          최신 기술 도입과 복잡한 문제 해결에 강점이 있으며, 생산성 및 서비스 품질 향상에 기여해왔습니다.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
